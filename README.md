@@ -1,4 +1,4 @@
-# GeoPython_Basel_2018
+# EuroPython_2018
 ## Talk on Understanding and Implementing Recurrent Neural Networks using Python - By: Anmol Krishan Sachdeva at GeoPython, Switzerland, 2018.
 ## Resources to refer:
 ### http://colah.github.io/ - Understanding LSTM
